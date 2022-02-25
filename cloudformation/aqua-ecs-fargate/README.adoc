@@ -3,6 +3,8 @@
 
 image:https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png[Launch Stack,link=https://console.aws.amazon.com/cloudformation/home?#/stacks/new?stackName=aqua-ecs&templateURL=https://s3.amazonaws.com/aqua-security-public/{version}/aquaFargate.yaml]
 
+image:https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png[Launch Stack ADA,link=https://console.aws.amazon.com/cloudformation/home?#/stacks/new?stackName=aqua-ecs&templateURL=https://s3.amazonaws.com/aqua-security-public/{version}/aquaFargateAda.yaml]
+
 = Description
 
 This page contains instructions for creating a deployment of Aqua CSP (Cloud native Security Platform) on an Amazon ECS Fargate cluster.
